@@ -22,6 +22,7 @@ export default function About() {
                     </div>
                 </div>
                 <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+                    {/* insert image of myself here */}
                     <img className="object-cover object-cneter rounded" alt="hero" src="./coding.svg"/>
                 </div>
             </div>
