@@ -1,11 +1,17 @@
 import React from "react";
+import About from "./components/About";
+import Contact from "./components/Contact";
+import Navbar from "./components/Navbar";
+import Projects from "./components/Projects";
+import Resume from "./components/Resume";
+
 import "./index.css";
 import {useState} from "react"
 
-function App() {
+export default function App() {
 
   return (
-    <main>
+    <main className="text-gray-400 bg-gray-900 body-font">
       <Navbar />
       <About />
       <Projects />
@@ -43,4 +49,4 @@ function App() {
 //   );
 // }
 
-export default App;
+// export default App;
