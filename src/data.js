@@ -20,7 +20,7 @@ export const projects = [
     {
         id: 3,
         title: "Weather Dashboard",
-        subtitle: "MERN Stack",
+        subtitle: "An app to check the weather",
         description: "Put the Description of project here",
         image: "./weather.png",
         link: "https://cmetcalf8.github.io/Weather-Dashboard/",
