@@ -1,5 +1,15 @@
 export const projects = [
     {
+        id: 1,
+        title: "Moomble",
+        subtitle: "Restaurant Finder",
+        description: "Simply enter a zip code and you'll get a list of restaurants in that area. Create a profile and save/rate restaurants you want to go back to.",
+        image: "./moomble.png",
+        link: "https://moomble.herokuapp.com/",
+        git: "https://github.com/cmetcalf8/Moomble"
+    },
+    {
+        id: 2,
         title: "React Reserve",
         subtitle: "MERN Stack",
         description: "Put the Description of project here",
@@ -7,6 +17,7 @@ export const projects = [
         link: "https://",
     },
     {
+        id: 3,
         title: "React Reserve",
         subtitle: "MERN Stack",
         description: "Put the Description of project here",
@@ -14,6 +25,7 @@ export const projects = [
         link: "https://",
     },
     {
+        id: 4,
         title: "React Reserve",
         subtitle: "MERN Stack",
         description: "Put the Description of project here",
@@ -21,6 +33,15 @@ export const projects = [
         link: "https://",
     },
     {
+        id: 5,
+        title: "React Reserve",
+        subtitle: "MERN Stack",
+        description: "Put the Description of project here",
+        image: "./project-1.gif",
+        link: "https://",
+    },
+    {
+        id: 6,
         title: "React Reserve",
         subtitle: "MERN Stack",
         description: "Put the Description of project here",
