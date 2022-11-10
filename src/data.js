@@ -10,42 +10,29 @@ export const projects = [
     },
     {
         id: 2,
-        title: "React Reserve",
-        subtitle: "MERN Stack",
+        title: "Fantasy Football Picks",
+        subtitle: "Fantasy Football Stats and News",
         description: "Put the Description of project here",
-        image: "./project-1.gif",
-        link: "https://",
+        image: "./project1football.png",
+        link: "https://kolbykimball.github.io/project-1/",
+        git: "https://github.com/kolbykimball/project-1"
     },
     {
         id: 3,
-        title: "React Reserve",
+        title: "Weather Dashboard",
         subtitle: "MERN Stack",
         description: "Put the Description of project here",
-        image: "./project-1.gif",
-        link: "https://",
+        image: "./weather.png",
+        link: "https://cmetcalf8.github.io/Weather-Dashboard/",
+        git: "https://github.com/cmetcalf8/Weather-Dashboard"
     },
     {
         id: 4,
-        title: "React Reserve",
-        subtitle: "MERN Stack",
+        title: "Work Day Scheduler",
+        subtitle: "A Simple Calendar App",
         description: "Put the Description of project here",
-        image: "./project-1.gif",
-        link: "https://",
-    },
-    {
-        id: 5,
-        title: "React Reserve",
-        subtitle: "MERN Stack",
-        description: "Put the Description of project here",
-        image: "./project-1.gif",
-        link: "https://",
-    },
-    {
-        id: 6,
-        title: "React Reserve",
-        subtitle: "MERN Stack",
-        description: "Put the Description of project here",
-        image: "./project-1.gif",
-        link: "https://",
-    },
+        image: "./scheduler.png",
+        link: "https://cmetcalf8.github.io/Work-Day-Scheduler/",
+        git: "https://github.com/cmetcalf8/Work-Day-Scheduler"
+    }
 ];
