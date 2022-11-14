@@ -2,6 +2,7 @@ import React from "react";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
+import PortfolioContainer from "./components/PortfolioContainer";
 import Projects from "./components/Projects";
 import Resume from "./components/Resume";
 
@@ -11,21 +12,21 @@ export default function App() {
 
   return (
     <div className="container mx-auto bg-sky-800 rounded-xl shadow border p-8 m-10">
-    <p className="text-3xl text-gray-700 font-bold mb-5">
-      Welcome To My Portfolio
+    <p className="text-3xl text-white-100 font-bold mb-5">
+      Cory Metcalf
     </p>
 
     <main className="text-gray-400 bg-gray-900 body-font">
-      <Navbar />
+      <PortfolioContainer />
+      {/* <Navbar />
       <About />
       <Projects />
       <Contact />
-      <Resume />
+      <Resume /> */}
     </main>
     </div>
   );
 }
-
 
 
 //     <div className="App">
