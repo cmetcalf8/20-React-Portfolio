@@ -9,7 +9,7 @@ export default function About() {
                         Hi, I'm Cory.
                     </h1>
                     <p className="mb-8 leading-relaxed text-white">
-                        I was born in Arizona but have spent the majority of my life in Utah. I also lived in Germany for 6 months and saw 15 different countries in that time, it was one of the greatest experiences of my life. I've always loved sports and played volleyball at the college club and semi-professional level. I graduated from Brigham Young University with a bachelor's in Psychology. I spent several years in sales then got my mortgage loan license and have been doing that for the past three years. I finally decided to pursue my passion in computer science. I completed a coding bootcampe throught the University of Utah in November 2022. I love software development and look forward to a long career in this industry.  
+                        I was born in Arizona but have spent the majority of my life in Utah. I also lived in Germany for 6 months and saw 15 different countries in that time, it was one of the greatest experiences of my life. I've always loved sports and played volleyball at the college club and semi-professional level. I graduated from Brigham Young University with a bachelor's in Psychology. I spent several years in sales then got my mortgage loan license and have been doing that for the past three years. I finally decided to pursue my passion in computer science, and completed a coding bootcamp through the University of Utah in November 2022. I love software development and look forward to a long career in this industry.  
                     </p>
 
                 </div>

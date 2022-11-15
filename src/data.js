@@ -12,7 +12,7 @@ export const projects = [
         id: 2,
         title: "Fantasy Football Picks",
         subtitle: "Fantasy Football Stats and News",
-        description: "Put the Description of project here",
+        description: "For when you're drafting in your fantasy league and need to look up a player's stats and recent news to give you an edge over your friends and family.",
         image: "project1football.png",
         link: "https://kolbykimball.github.io/project-1/",
         git: "https://github.com/kolbykimball/project-1"
@@ -21,7 +21,7 @@ export const projects = [
         id: 3,
         title: "Weather Dashboard",
         subtitle: "An app to check the weather",
-        description: "Put the Description of project here",
+        description: "Enter a city and you'll get the five day forecast. Search history is included.",
         image: "weather.png",
         link: "https://cmetcalf8.github.io/Weather-Dashboard/",
         git: "https://github.com/cmetcalf8/Weather-Dashboard"
@@ -30,7 +30,7 @@ export const projects = [
         id: 4,
         title: "Work Day Scheduler",
         subtitle: "A Simple Calendar App",
-        description: "Put the Description of project here",
+        description: "If you need to schedule out your day this app is perfect for keeping reminders during the day.",
         image: "scheduler.png",
         link: "https://cmetcalf8.github.io/Work-Day-Scheduler/",
         git: "https://github.com/cmetcalf8/Work-Day-Scheduler"
