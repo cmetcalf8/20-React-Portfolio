@@ -1,5 +1,4 @@
 import React from "react";
-// import { ArrowRightIcon } from "@heroicons/react/solid";
 
 export default function Navbar({ currentPage, handlePageChange}) {
     return (
@@ -22,12 +21,13 @@ export default function Navbar({ currentPage, handlePageChange}) {
                 </p>
                 <a href="#contact"  onClick={() => handlePageChange('Contact')} className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}>
                      Contact Me
-                     {/* <ArrowRightIcon className="w-4 h-4 ml-1" /> */}
                 </a>
             </div>
         </header>
     );
 }
+
+
 
 // className="ml-3 text-xl"
 // className="mr-5 hover:text-white"
