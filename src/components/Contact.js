@@ -66,8 +66,8 @@ export default function Contact() {
                         </label>
                         <input type="text" id="name" name="name" className="w-full bg-gray-800 rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out" onChange={(e) => setName(e.target.value)}
                         />
-                    </div>
                     { name ? "" :  <p>This field required</p>  }
+                    </div>
                     <div className="relative mb-4">
                         <label htmlFor="email" className="leading-7 text-sm text-gray-400">
                             Email
@@ -90,8 +90,8 @@ export default function Contact() {
                         }
                     }
                         />
-                    </div>
                     { message ? "" :  <p>This field required</p>  }
+                    </div>
                     <button type="submit" className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
                         Submit
                     </button>
