@@ -8,7 +8,7 @@ export default function App() {
 
   return (
     <div className="container mx-auto bg-sky-800 rounded-xl shadow border p-8 m-10">
-      <p className="text-3xl text-white-100 font-bold mb-5">
+      <p className="text-3xl text-blue-100 font-bold mb-5">
       Cory Metcalf
       </p>
 
