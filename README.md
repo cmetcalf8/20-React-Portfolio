@@ -16,7 +16,7 @@ To run the application locally you will need to clone ths repo, run "npm i" in t
 
 ## Usage
 
-You can visit my portfolio at my deployed Heroku link: https://cory-metcalf-portfolio.herokuapp.com/
+You can visit my portfolio at my deployed Github Pages link: https://cmetcalf8.github.io/20-React-Portfolio/
 
 ![screencapture-localhost-3000-2022-11-15-17_02_14](https://user-images.githubusercontent.com/105259367/202050962-f5a2e608-1b2e-4fb4-a190-f1137cee695a.png)
 
