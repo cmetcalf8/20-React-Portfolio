@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/20-React-Portfolio/static/css/main.49a58bd4.css",
+    "main.js": "/20-React-Portfolio/static/js/main.cf24e668.js",
+    "static/js/787.b2e1b36e.chunk.js": "/20-React-Portfolio/static/js/787.b2e1b36e.chunk.js",
+    "static/media/moomble.png": "/20-React-Portfolio/static/media/moomble.9cee3e7e71124ddd57f0.png",
+    "static/media/project1football.png": "/20-React-Portfolio/static/media/project1football.1fe788e1d4733cc74163.png",
+    "static/media/me.jpg": "/20-React-Portfolio/static/media/me.1f324e94ff164eb19383.jpg",
+    "static/media/weather.png": "/20-React-Portfolio/static/media/weather.4c1de2a11dfbbdebbb4b.png",
+    "static/media/scheduler.png": "/20-React-Portfolio/static/media/scheduler.7a699a4bd33c7e92cfc0.png",
+    "static/media/logo.svg": "/20-React-Portfolio/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/20-React-Portfolio/index.html",
+    "main.49a58bd4.css.map": "/20-React-Portfolio/static/css/main.49a58bd4.css.map",
+    "main.cf24e668.js.map": "/20-React-Portfolio/static/js/main.cf24e668.js.map",
+    "787.b2e1b36e.chunk.js.map": "/20-React-Portfolio/static/js/787.b2e1b36e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49a58bd4.css",
+    "static/js/main.cf24e668.js"
+  ]
+}
